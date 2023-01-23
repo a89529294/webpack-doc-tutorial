@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "MyFont";
+  src: url("./Unbounded-Regular.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  background: url("./cloudy.png");
+  font-family: "MyFont";
+}
